@@ -248,7 +248,7 @@ changelog:
 .jwplayer.jw-skin-netflix.jw-state-paused .jw-controls,
 .jwplayer.jw-skin-netflix.jw-state-complete .jw-controls,
 .jwplayer.jw-skin-netflix.jw-state-buffering .jw-controls {
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.80);
   transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
